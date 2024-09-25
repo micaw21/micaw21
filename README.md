@@ -5,17 +5,19 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=micaw21&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=micaw21&theme=dracula&layout=compact" alt="Top Langs" />
-
-
 </div>
 
 ###
 
-<img align="right" height="150" src="https://www.icegif.com/wp-content/uploads/2023/06/icegif-85.gif"  />
+<div align="center">
+  
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=carlosw20151&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
+  </div>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -43,7 +45,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/micswy/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -61,7 +63,9 @@
 ###
 
 <br clear="both">
-
+<div align="center">
 <img src="https://raw.githubusercontent.com/micaw21/micaw21/output/snake.svg" alt="Snake animation" />
+
+</div>
 
 ###
