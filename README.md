@@ -57,11 +57,10 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/micaw21/micaw21/main/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/micaw21/micaw21/output/snake.svg" alt="Snake animation" />
 
 ###
