@@ -3,7 +3,6 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=micaw21&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=micaw21&theme=dracula&layout=compact" alt="Top Langs" />
 </div>
 
