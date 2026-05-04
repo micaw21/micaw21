@@ -1,9 +1,20 @@
 <h2 align="center">⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆</h2>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=435&lines=Hola%2C+soy+Micaela+👋;Desarrolladora+de+Software;¡Bienvenida%2Fo+a+mi+perfil!" alt="Typing SVG" />
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=micaw21&label=Vistas+del+Perfil&color=000000&style=for-the-badge&logo=github" alt="Contador de visitas" />
+</div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=micaw21&theme=dracula&layout=compact" alt="Top Langs" />
+  <img src="https://github-profile-trophy.vercel.app/?username=micaw21&theme=dracula&row=1&column=5&no-frame=true&no-bg=true" alt="Trofeos" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=micaw21&theme=dracula&layout=compact&hide_border=true" alt="Top Langs" />
 </div>
 
 ###
