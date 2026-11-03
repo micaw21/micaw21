@@ -7,10 +7,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=micaw21&theme=dracula&row=1&column=5&no-frame=true&no-bg=true" alt="Trofeos" />
-</div>
-
 ###
 
 <div align="center">
@@ -21,7 +17,7 @@
 
 <div align="center">
   
- [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=carlosw20151&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+ [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=carlosw20151&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
   </div>
 
